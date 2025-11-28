@@ -8,3 +8,16 @@ The learning environment will follow an immersive approach, containing robot con
 Configurations of the teaching system that can be transferred to real robots ensure practical relevance. Additional simulation scenarios in which autonomous robots assist and cooperate with humans provide a basis for discussion and the framework for ethical, legal and social issues (ELSI) of AI and cognitive robotics.
 
 To encourage widespread use and collaboration, IntEL4CoRo has been implemented as an open-source and OER (Open Educational Resource) project.
+
+# IntEL4CoRo online hands-on courses
+
+- [Actionable Knowledge Representation](https://github.com/michaelakuempel/ActionableKnowledgeRepresentation)
+- [Robot Programming with ROS](https://github.com/artnie/rpwr-assignments)
+- [Integrated Intelligent Systems](https://github.com/fkenghagho/IIS-Tutorial/tree/main)
+- [Robot Programming with LISP](https://github.com/IntEL4CoRo/cram_teaching)
+- [EASE Fall School 2024](https://vib.ai.uni-bremen.de/page/fallschool/)
+- [EASE Fall School - NEEMs and KnowRob](https://github.com/sasjonge/semantic-map-lab/tree/dfl_reasoner)
+- [EASE Fall school - URDF](https://github.com/IntEL4CoRo/ease_fall_school_2024)
+- [EASE Fall school 2023](https://github.com/IntEL4CoRo/pycram/tree/fallschool2023)
+- [EASE Fall school 2022](https://github.com/IntEL4CoRo/ease_fall_school_2022)
+- [Integrated Intelligent Systems - WiSe 2024/2025](https://github.com/IntEL4CoRo/iis-exercises)
